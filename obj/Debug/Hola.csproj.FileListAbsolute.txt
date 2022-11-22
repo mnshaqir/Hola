@@ -1,0 +1,11 @@
+C:\Users\PSCAD\Desktop\Hello\Hola\bin\Debug\Hola.exe.config
+C:\Users\PSCAD\Desktop\Hello\Hola\bin\Debug\Hola.exe
+C:\Users\PSCAD\Desktop\Hello\Hola\bin\Debug\Hola.pdb
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.csproj.AssemblyReference.cache
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.csproj.SuggestedBindingRedirects.cache
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.Properties.Resources.resources
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.csproj.GenerateResource.cache
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.csproj.CoreCompileInputs.cache
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.exe
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.pdb
+C:\Users\PSCAD\Desktop\Hello\Hola\obj\Debug\Hola.Form1.resources
